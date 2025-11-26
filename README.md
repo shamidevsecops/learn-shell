@@ -1,3 +1,3 @@
 # learn-shell
 
-Sample Repo
+Sample Repository
