@@ -1,5 +1,3 @@
 ls
 pwd
-iostart
-cpuinfo
-meminfo
+top
