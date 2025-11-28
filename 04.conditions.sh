@@ -36,7 +36,6 @@
 # Operators: -eq, -ne, -le, -lt, -ge, -gt
 # [ 1 -eq 1 ] -> True if both are equal
 
-a=200
 if [ "$a" -lt 100 ]; then
   echo $a is less than 100
 fi
