@@ -40,6 +40,9 @@ a=200
 
 if [ "$a" -lt 100 ]; then
   echo $a is less than 100
+else
+  echo $a is grater than 100
+
 fi
 
 # 2. String Comparisons
